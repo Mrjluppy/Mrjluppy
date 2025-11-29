@@ -17,4 +17,4 @@
 - Instagram: [@m.r.rj86ak](https://www.instagram.com/m.r.rj86ak/)  
 - LinkedIn: [Mohammad Rasul Rajabi](https://www.linkedin.com/in/mohammd-rasul-rajabi-5795b52a6)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrjluppy)](https://github.com/anuraghazra/github-readme-stats)
+
