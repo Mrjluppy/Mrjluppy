@@ -23,14 +23,6 @@ Computer Science student from Iran | 18 y/o | Born: **June 13, 2007**
 - Computer Science Fundamentals  
 
 📫 **Find me on:**
-- Instagram: [@m.r.rj86ak](https://www.instagram.com/m.r.rj86ak/)
-- LinkedIn: [Mohammad Rasul Rajabi](https://www.linkedin.com/in/mohammad-rasul-rajabi-5795b52a6/)
-- YouTube: [@KingRj47](https://youtube.com/@KingRj47)
-- Discord: empty405
-- Email: **kingrasul47@gmail.com**
-
----
-
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA?logo=discord&logoColor=white)](https://discord.gg/empty405)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=Instagram&logoColor=white)](https://instagram.com/m.r.rj86ak)
