@@ -22,8 +22,7 @@ Computer Science student from Iran | 18 y/o | Born: **June 13, 2007**
 - Web Development  
 - Computer Science Fundamentals  
 
-📫 **Find me on:**
-## 🌐 Socials
+## 🌐 Find me onSocials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA?logo=discord&logoColor=white)](https://discord.gg/empty405)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=Instagram&logoColor=white)](https://instagram.com/m.r.rj86ak)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-rasul-rajabi-5795b52a6/)
