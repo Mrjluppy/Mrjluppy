@@ -3,10 +3,19 @@ Hi, I'm **Mohammad Rasoul Rajabi (Rj)** 👋
 Computer Science student from Iran | 18 y/o | Born: **June 13, 2007**
 
 🔭 Currently studying **Computer Science** at Islamic Azad University (Tehran)  
+
+<img width="200" height="284" alt="azadlogo_en" src="https://github.com/user-attachments/assets/04528f00-1bfb-4148-8883-eabe9eb193e7" />
+
+
 🌱 Learning **Python, Embedded Systems, IoT, Cybersecurity, Web**, and strengthening math & physics  
 🛠️ Building IoT prototypes, hardware experiments, and CS projects
 
 🎓 Currently enrolled in **CS50xIRAN**, covering:
+
+![download](https://github.com/user-attachments/assets/0902dcdc-f680-48cd-8647-ea77789ebaf5)
+
+<img width="150" height="160" alt="Harvard_University_coat_of_arms svg" src="https://github.com/user-attachments/assets/eeb657f5-5ee4-4913-a1bf-d73402ec57d6" />
+
 - Artificial Intelligence  
 - Python  
 - Cybersecurity & Ethical Hacking  
