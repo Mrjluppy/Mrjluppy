@@ -32,13 +32,11 @@ Hi, I'm **Mohammad Rasoul Rajabi (Rj)** 👋
 
 ## 🌐 Socials  
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA?logo=discord&logoColor=white)](https://discord.gg/empty405)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=Instagram&logoColor=white)](https://instagram.com/m.r.rj86ak)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-rasul-rajabi-5795b52a6/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?logo=YouTube&logoColor=white)](https://youtube.com/@KingRj47)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kingrasul47@gmail.com)
-
----
+[![Discord](https://img.shields.io/badge/Discord-%237289DA?logo=discord&logoColor=white&scale=1.4)](https://discord.gg/empty405)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=Instagram&logoColor=white&scale=1.4)](https://instagram.com/m.r.rj86ak)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white&scale=1.4)](https://www.linkedin.com/in/mohammad-rasul-rajabi-5795b52a6/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?logo=YouTube&logoColor=white&scale=1.4)](https://youtube.com/@KingRj47)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&scale=1.4)](mailto:kingrasul47@gmail.com)
 
 # 💻 Tech Stack  
 
