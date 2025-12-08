@@ -4,7 +4,7 @@ Computer Science student from Iran | 18 y/o | Born: **June 13, 2007**
 
 🔭 Currently studying **Computer Science** at Islamic Azad University (Tehran)  
 
-<img width="100" height="142" alt="azadlogo_en" src="https://github.com/user-attachments/assets/04528f00-1bfb-4148-8883-eabe9eb193e7" />
+<img width="120" height="150" alt="azadlogo_en" src="https://github.com/user-attachments/assets/04528f00-1bfb-4148-8883-eabe9eb193e7" />
 
 
 🌱 Learning **Python, Embedded Systems, IoT, Cybersecurity, Web**, and strengthening math & physics  
