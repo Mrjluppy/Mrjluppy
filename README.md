@@ -72,3 +72,7 @@ Hi, I'm **Mohammad Rasoul Rajabi (Rj)** 👋
 [![](https://visitcount.itsvg.in/api?id=mrJluppy&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM -->
+my PC :
+
+
+<a href="https://www.pcgamebenchmark.com/ratemypc?cpu=intel-core-i7-13650hx&gpu=nvidia-geforce-rtx-4050-laptop-gpu&memory=16384"><img src="https://cdn.pcgamebenchmark.com/signature/intel-core-i7-13650hx/16/nvidia-geforce-rtx-4050-laptop-gpu/large.png" alt="PCGameBenchmark Signature"></a>
