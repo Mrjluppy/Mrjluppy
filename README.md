@@ -202,12 +202,5 @@ Hi, I'm **Mohammad Rasoul Rajabi (Rj)** 👋
 
 ---
 
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=mrJluppy&color=00FFFF"/>
-</p>
-
-<h3 align="center">
-⚡ THE GRID IS CODE — THE CODE IS ME ⚡
-</h3>
 
 <!-- ===================== END ===================== -->
