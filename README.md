@@ -1,4 +1,8 @@
 <!-- ===================== TRON CYBER README ===================== -->
+<div align="center" style="background-color:#1a1a1a; display:inline-block; padding:10px; border-radius:8px;">
+  <img src="https://github.com/user-attachments/assets/202c00cd-d569-4493-8816-61788bbec326" width="400" alt="GIF">
+</div>
+
 
 <h1 align="center">
 ⚡ <span style="color:#00FFFF">MOHAMMAD RASOUL RAJABI</span> ⚡
