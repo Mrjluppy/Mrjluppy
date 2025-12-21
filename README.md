@@ -204,6 +204,14 @@ Hi, I'm **Mohammad Rasoul Rajabi (Rj)** 👋
 </a>
 </p>
 
+
+
+
+
+![CPU](https://img.shields.io/badge/CPU-Intel_Core_i7_13650HX-000000?style=for-the-badge&logo=intel&logoColor=00FFFF)
+![GPU](https://img.shields.io/badge/GPU-NVIDIA_GeForce_RTX_4050-000000?style=for-the-badge&logo=nvidia&logoColor=76B900)
+![RAM](https://img.shields.io/badge/RAM-16GB-000000?style=for-the-badge&logo=markdown&logoColor=FFFFFF)
+
 ---
 
 
